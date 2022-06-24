@@ -1,17 +1,12 @@
 {
-  "name": "Catuserbot",
-  "description": "A telethon userbot based on snapdragon code(xtratgbot) .Easy to use and friendly bot . Maintained by Sandeep ",
-  "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
+  "name": "bot",
+  "description": "A telethon  ",
+  "logo": "https://telegra.ph/file/ac6e6c0eca5cc955ad84b.jpg",
   "keywords": [
     "telegram",
-    "userbot",
-    "plugin",
-    "modular",
-    "productivity"
+    "userbot"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
-  "website": "#TODO",
-  "success_url": "#TODO",
+  "repository": "https://github.com/samurai-maker/oldcaTeeo",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
